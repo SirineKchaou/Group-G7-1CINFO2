@@ -10,8 +10,6 @@ public class MedLarbiJouini {
     }
 
     // Calculer la longueur d’une chaîne
-    public static int longueurChaine(String s) {
-        return s.length();
-    }
+   
 
 }
